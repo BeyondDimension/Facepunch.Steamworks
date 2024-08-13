@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Runtime.InteropServices;
 using Steamworks.Data;
+using Socket = Steamworks.Data.Socket;
 
 namespace Steamworks
 {
